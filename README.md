@@ -5,7 +5,6 @@
 
 Aplicativo de slide animado em react native a 60fps .
 
-Interactive clock !!!!
 ## Funcionalidades   💎 
 
 
